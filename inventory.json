@@ -1,6 +1,6 @@
 {
   "dealership": "Mercedes Benz Nanaimo",
-  "generated_at": "2026-09-26T16:04:27",
+  "generated_at": "2026-10-08T14:42:15",
   "vehicle_count": 53,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -20,7 +20,9 @@
       "year": 2015,
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedanin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2016 BMW 428i ",
@@ -36,13 +38,16 @@
       "year": 2016,
       "make": "BMW",
       "model": "428i",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2016 Mercedes-Benz GLE 63 AMG S 4maticin Nanaimo",
       "vin": "4JGDA7FB2GA678989",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "63 AMG S 4matic",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/8368e99832b1.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2016-Mercedes_Benz-GLE_63_AMG-id14284599.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2016-Mercedes_Benz-GLE_63_AMG-id14284599.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -52,8 +57,10 @@
       "odometer_km": 85968,
       "year": 2016,
       "make": "Mercedes-Benz",
-      "model": "GLE 63 AMG S 4maticin Nanaimo",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2016 Toyota Tacoma ",
@@ -69,7 +76,9 @@
       "year": 2016,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2017 Honda Civic ",
@@ -85,13 +94,16 @@
       "year": 2017,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2017 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "WDC0G4KB0HF116786",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/c74233feccb7.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2017-Mercedes_Benz-GLC_300-id14337929.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2017-Mercedes_Benz-GLC_300-id14337929.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -101,8 +113,10 @@
       "odometer_km": 129584,
       "year": 2017,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2018 Honda Civic ",
@@ -118,13 +132,16 @@
       "year": 2018,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2018 Mercedes-Benz GLA 250 4matic Suvin Nanaimo",
       "vin": "WDCTG4GB0JJ412318",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/dc47aee7dd72.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2018-Mercedes_Benz-GLA_250-id13511747.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2018-Mercedes_Benz-GLA_250-id13511747.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -134,14 +151,17 @@
       "odometer_km": 124330,
       "year": 2018,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Nanaimo",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2018 Mercedes-Benz GLE 400 4matic Suvin Nanaimo",
       "vin": "4JGDA5GB1JB162708",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "400 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/6f25698022b1.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2018-Mercedes_Benz-GLE_400-id14344236.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2018-Mercedes_Benz-GLE_400-id14344236.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -151,8 +171,10 @@
       "odometer_km": 92100,
       "year": 2018,
       "make": "Mercedes-Benz",
-      "model": "GLE 400 4matic Suvin Nanaimo",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2020 Chevrolet Silverado 3500 ",
@@ -168,7 +190,9 @@
       "year": 2020,
       "make": "Chevrolet",
       "model": "Silverado 3500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 Mercedes-Benz C 43 AMG 4matic Sedanin Nanaimo",
@@ -185,12 +209,15 @@
       "year": 2021,
       "make": "Mercedes-Benz",
       "model": "C 43 AMG 4matic Sedanin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2021 Mercedes-Benz GLB 35 AMG 4matic Suvin Nanaimo",
       "vin": "W1N4M5BB2MW092452",
       "stock": "NUMBER",
+      "trim": "35 AMG 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/d584eb90faa1.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2021-Mercedes_Benz-GLB_35_AMG-id14337930.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2021-Mercedes_Benz-GLB_35_AMG-id14337930.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -200,14 +227,17 @@
       "odometer_km": 40307,
       "year": 2021,
       "make": "Mercedes-Benz",
-      "model": "GLB 35 AMG 4matic Suvin Nanaimo",
-      "condition": "used"
+      "model": "GLB",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLA 250 4matic Suvin Nanaimo",
       "vin": "W1N4N4HB4NJ359717",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/0a44193c874d.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2022-Mercedes_Benz-GLA_250-id14317769.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2022-Mercedes_Benz-GLA_250-id14317769.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -217,14 +247,17 @@
       "odometer_km": 61643,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Nanaimo",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLB 250 4matic Suvin Nanaimo",
       "vin": "W1N4M4HB5NW259275",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/0e6d55658df9.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2022-Mercedes_Benz-GLB_250-id14022822.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2022-Mercedes_Benz-GLB_250-id14022822.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -234,14 +267,17 @@
       "odometer_km": 30285,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLB 250 4matic Suvin Nanaimo",
-      "condition": "used"
+      "model": "GLB",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1N0G8EB4NV383951",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/b28b01538894.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2022-Mercedes_Benz-GLC_300-id14022821.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2022-Mercedes_Benz-GLC_300-id14022821.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -251,14 +287,17 @@
       "odometer_km": 84193,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2022 Mercedes-Benz GLS 450 4matic Suvin Nanaimo",
       "vin": "4JGFF5KE5NA751686",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "450 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/1fffb8d6101b.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2022-Mercedes_Benz-GLS_450-id14429766.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2022-Mercedes_Benz-GLS_450-id14429766.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -268,14 +307,17 @@
       "odometer_km": 57277,
       "year": 2022,
       "make": "Mercedes-Benz",
-      "model": "GLS 450 4matic Suvin Nanaimo",
-      "condition": "used"
+      "model": "GLS",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 Mercedes-Benz GLC 300 4matic Coupein Nanaimo",
       "vin": "W1N0J8EB6PG167723",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "300 4matic Coupe",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/2047842aba17.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2023-Mercedes_Benz-GLC_300-id14107368.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2023-Mercedes_Benz-GLC_300-id14107368.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -285,14 +327,17 @@
       "odometer_km": 68032,
       "year": 2023,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Coupein Nanaimo",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 Mercedes-Benz GLE 450 4matic Suv |starin Nanaimo",
       "vin": "4JGFB5KBXPA870225",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "450 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/f2a6a64a3d74.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2023-Mercedes_Benz-GLE_450-id13566097.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2023-Mercedes_Benz-GLE_450-id13566097.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -302,8 +347,10 @@
       "odometer_km": 78562,
       "year": 2023,
       "make": "Mercedes-Benz",
-      "model": "GLE 450 4matic Suv",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue ",
@@ -319,12 +366,15 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Chevrolet Express Cargo Van ",
       "vin": "1GCWGAFP4R1185855",
       "stock": 13457373,
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/970ff00a4d89.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Chevrolet-Express_Cargo_Van.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Chevrolet-Express_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -333,14 +383,17 @@
       "price_currency": "CAD",
       "year": 2024,
       "make": "Chevrolet",
-      "model": "Express Cargo Van",
-      "condition": "used"
+      "model": "Express",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Mercedes-Benz GLA 250 4matic Suvin Nanaimo",
       "vin": "W1N4N4HB8RJ602709",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/1b5275f53809.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Mercedes_Benz-GLA_250-id14107369.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Mercedes_Benz-GLA_250-id14107369.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -350,14 +403,17 @@
       "odometer_km": 52040,
       "year": 2024,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Nanaimo",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB8RF178946",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/1b224cf67a99.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Mercedes_Benz-GLC_300-id14289816.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Mercedes_Benz-GLC_300-id14289816.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -367,14 +423,17 @@
       "odometer_km": 26024,
       "year": 2024,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "used"
+      "model": "GLC",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Mercedes-Benz GLE 350 4matic Suvin Nanaimo",
       "vin": "4JGFB4FB0RB177391",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "350 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/1ceea8f57e70.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Mercedes_Benz-GLE_350-id14284600.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Mercedes_Benz-GLE_350-id14284600.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -384,14 +443,17 @@
       "odometer_km": 31958,
       "year": 2024,
       "make": "Mercedes-Benz",
-      "model": "GLE 350 4matic Suvin Nanaimo",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Mercedes-Benz GLE 450 4matic Suv |lowin Nanaimo",
       "vin": "4JGFB5KE1RB107209",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "450 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/8ef44155830b.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Mercedes_Benz-GLE_450-id13483723.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Mercedes_Benz-GLE_450-id13483723.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -401,14 +463,17 @@
       "odometer_km": 20813,
       "year": 2024,
       "make": "Mercedes-Benz",
-      "model": "GLE 450 4matic Suv",
-      "condition": "used"
+      "model": "GLE",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2024 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
       "vin": "W1Y4KBHY3RP613005",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Van 2500 Standard Roof",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/d7a4d4e0e054.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Mercedes_Benz-Sprinter_Cargo_Van-id13648000.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2024-Mercedes_Benz-Sprinter_Cargo_Van-id13648000.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -418,8 +483,10 @@
       "odometer_km": 74939,
       "year": 2024,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
-      "condition": "used"
+      "model": "Sprinter",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2025 Honda HR-V ",
@@ -435,7 +502,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz C 300 4matic Sedanin Nanaimo",
@@ -452,13 +521,16 @@
       "year": 2025,
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedanin Nanaimo",
-      "condition": "used"
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2025 Mercedes-Benz Sprinter Cargo Van 2500 High Roof I4in Nanaimo",
       "vin": "W1Y4KCHY1SP790969",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van 2500 High Roof I4",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/a905265daca6.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2025-Mercedes_Benz-Sprinter_Cargo_Van-id14324126.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2025-Mercedes_Benz-Sprinter_Cargo_Van-id14324126.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -468,14 +540,17 @@
       "odometer_km": 75238,
       "year": 2025,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 High Roof I4in Nanaimo",
-      "condition": "used"
+      "model": "Sprinter",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 SUVin Nanaimo",
       "vin": "W1N4N4HB8TJ802562",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 SUV",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/20820bf23f0d.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/used/2026-Mercedes_Benz-GLA_250-id14362782.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/used/2026-Mercedes_Benz-GLA_250-id14362782.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -485,8 +560,10 @@
       "odometer_km": 8864,
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 SUVin Nanaimo",
-      "condition": "used"
+      "model": "GLA",
+      "condition": "used",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz C 300 4matic Sedanin Nanaimo",
@@ -502,13 +579,16 @@
       "year": 2026,
       "make": "Mercedes-Benz",
       "model": "C 300 4matic Sedanin Nanaimo",
-      "condition": "new"
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4matic Suvin Nanaimo",
       "vin": "W1N4N4HBXTJ878770",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/e46ff172a962.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14057121.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14057121.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -517,14 +597,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4matic Suvin Nanaimo",
       "vin": "W1N4N4HB5TJ894505",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/f9129a0306da.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14276825.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14276825.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -533,14 +616,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4matic Suvin Nanaimo",
       "vin": "W1N4N4HB5TJ888719",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/8e52e950b467.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14295420.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14295420.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -549,14 +635,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4matic Suvin Nanaimo",
       "vin": "W1N4N4HB4TJ870020",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/57b85f06f918.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14344237.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14344237.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -565,14 +654,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLA 250 4matic Suvin Nanaimo",
       "vin": "W1N4N4HB2TJ904956",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/dab541d7f885.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14416500.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLA_250-id14416500.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -581,14 +673,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLA 250 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLA",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLB 250 4matic Suvin Nanaimo",
       "vin": "W1N4M4HB0TW478707",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/c497fe2795e1.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14057120.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14057120.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -597,14 +692,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLB 250 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLB",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLB 250 4matic Suvin Nanaimo",
       "vin": "W1N4M4HB7TW480373",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "250 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/81b6facbb0a8.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14337933.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLB_250-id14337933.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -613,14 +711,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLB 250 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLB",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB8TF471933",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/2238c0bcd99a.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id13194865.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id13194865.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -629,14 +730,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB9TF524395",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/09be07c94872.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id13832386.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id13832386.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -645,14 +749,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HBXTF579471",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/5dc94d672853.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14064570.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14064570.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -661,14 +768,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB8TF484942",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/3e97b88ce928.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14169105.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14169105.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -677,14 +787,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB9TF592602",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/35522301edbf.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14175259.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14175259.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -693,14 +806,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HBXTF537575",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/8955300dca9a.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337934.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337934.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -709,14 +825,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB2TF537859",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/69668962e152.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337935.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337935.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -725,14 +844,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB1TF628041",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/97e3f0c5a5ba.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337936.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337936.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -741,14 +863,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HBXTF579941",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/0cf18ce85290.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337939.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337939.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -757,14 +882,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB3TF580171",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/d69adb13808d.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337944.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337944.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -773,14 +901,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB4TF546062",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/9eb7cd85795f.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337945.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337945.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -789,14 +920,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB5TF586893",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/8fb4952028a1.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337946.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14337946.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -805,14 +939,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB2TF522956",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "300 4matic Suv",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/9f6fe4b594a0.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14382586.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-GLC_300-id14382586.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -821,14 +958,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC 300 4matic Suvin Nanaimo",
-      "condition": "new"
+      "model": "GLC",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
       "vin": "W1Y4KBHY0TP956104",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Van 2500 Standard Roof",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/bce2f3ccdf0e.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id14416501.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id14416501.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -837,14 +977,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
       "vin": "W1Y4KBHYXTP961083",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van 2500 Standard Roof",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/37951e616592.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id14429767.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id14429767.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -853,14 +996,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     },
     {
       "name": "2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
       "vin": "W1Y4NBHYXTP955534",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van 2500 Standard Roof",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/63a0d0398d68.html",
       "source_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id14429770.html",
       "dealer_url": "https://www.mercedes-benz-nanaimo.ca/new/inventory/2026-Mercedes_Benz-Sprinter_Cargo_Van-id14429770.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,8 +1015,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
-      "condition": "new"
+      "model": "Sprinter",
+      "condition": "new",
+      "city": "Nanaimo",
+      "province": "BC"
     }
   ]
 }
