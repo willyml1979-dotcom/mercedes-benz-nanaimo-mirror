@@ -1,6 +1,6 @@
 {
   "dealership": "Mercedes Benz Nanaimo",
-  "generated_at": "2026-10-26T01:55:12",
+  "generated_at": "2026-10-26T01:58:19",
   "vehicle_count": 44,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -42,7 +42,7 @@
       "vin": "W1NKM4HB8TF471933",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/2238c0bcd99a.html",
       "condition": "new",
-      "price": 76747.0,
+      "price": 74747.0,
       "price_currency": "CAD"
     },
     {
