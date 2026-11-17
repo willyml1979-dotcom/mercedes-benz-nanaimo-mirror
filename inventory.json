@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Nanaimo",
-  "generated_at": "2026-11-17T14:11:33",
-  "vehicle_count": 43,
+  "generated_at": "2026-11-17T14:15:32",
+  "vehicle_count": 42,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -292,17 +292,6 @@
     },
     {
       "name": "New 2026 Mercedes-Benz GLB 250 4matic Suvin Nanaimo",
-      "vin": "W1N4M4HB0TW478707",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/c497fe2795e1.html",
-      "year": 2026,
-      "make": "Mercedes-Benz",
-      "model": "GLB",
-      "condition": "new",
-      "price": 69407.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLB 250 4matic Suvin Nanaimo",
       "vin": "W1N4M4HB7TW480373",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/81b6facbb0a8.html",
       "year": 2026,
@@ -310,17 +299,6 @@
       "model": "GLB",
       "condition": "new",
       "price": 68602.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
-      "vin": "W1NKM4HB8TF471933",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/2238c0bcd99a.html",
-      "year": 2026,
-      "make": "Mercedes-Benz",
-      "model": "GLC",
-      "condition": "new",
-      "price": 74747.0,
       "price_currency": "CAD"
     },
     {
@@ -380,28 +358,6 @@
     },
     {
       "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
-      "vin": "W1NKM4HB2TF537859",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/69668962e152.html",
-      "year": 2026,
-      "make": "Mercedes-Benz",
-      "model": "GLC",
-      "condition": "new",
-      "price": 75052.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
-      "vin": "W1NKM4HBXTF579941",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/0cf18ce85290.html",
-      "year": 2026,
-      "make": "Mercedes-Benz",
-      "model": "GLC",
-      "condition": "new",
-      "price": 76457.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
       "vin": "W1NKM4HB3TF580171",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/d69adb13808d.html",
       "year": 2026,
@@ -423,14 +379,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
-      "vin": "W1NKM4HB5TF586893",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/8fb4952028a1.html",
+      "name": "New 2026 Mercedes-Benz Sprinter Cargo Van 2500 Standard Roofin Nanaimo",
+      "vin": "W1Y4NBHY5TP891015",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/9628dcdf3cda.html",
       "year": 2026,
       "make": "Mercedes-Benz",
-      "model": "GLC",
+      "model": "Sprinter",
       "condition": "new",
-      "price": 77657.0,
+      "price": 80249.0,
       "price_currency": "CAD"
     },
     {
@@ -453,6 +409,39 @@
       "model": "Sprinter",
       "condition": "new",
       "price": 79568.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz CLA 250 Electric Rwdin Nanaimo",
+      "vin": "W1KFJ1DB1VJ075242",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/bd73f329fcad.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
+      "condition": "new",
+      "price": 56132.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz CLA 350 Electric 4maticin Nanaimo",
+      "vin": "W1KFJ4EB5VJ064437",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/2478cf48efbb.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
+      "condition": "new",
+      "price": 76407.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Mercedes-Benz GLC 300 4matic Suvin Nanaimo",
+      "vin": "W1NKM4HB0VF655380",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/9a8024e9b77f.html",
+      "year": 2027,
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "condition": "new",
+      "price": 80207.0,
       "price_currency": "CAD"
     },
     {
