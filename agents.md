@@ -7,7 +7,7 @@ Mercedes-Benz Nanaimo is a  dealership in Nanaimo. This site is an AI-readable m
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/ and https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/ (about 42 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/ and https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/new/ (about 43 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/llms.txt

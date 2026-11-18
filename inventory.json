@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Nanaimo",
-  "generated_at": "2026-11-18T03:36:40",
-  "vehicle_count": 42,
+  "generated_at": "2026-11-18T12:07:00",
+  "vehicle_count": 43,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -11,6 +11,14 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/fec9c7aa74de.html",
       "condition": "used",
       "price": 13499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus RX 2018 for salein Nanaimo",
+      "vin": "2T2BGMCA6JC027934",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/eb518dbcdf54.html",
+      "condition": "used",
+      "price": 37990.0,
       "price_currency": "CAD"
     },
     {
