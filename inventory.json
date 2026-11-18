@@ -1,6 +1,6 @@
 {
   "dealership": "Mercedes Benz Nanaimo",
-  "generated_at": "2026-11-17T14:15:32",
+  "generated_at": "2026-11-18T03:33:41",
   "vehicle_count": 42,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -19,6 +19,14 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/b9d0aabfd847.html",
       "condition": "used",
       "price": 58995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Rogue 2023 for salein Nanaimo",
+      "vin": "JN8BT3DD5PW314818",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/8d3c35264be2.html",
+      "condition": "used",
+      "price": 26499.0,
       "price_currency": "CAD"
     },
     {
@@ -178,17 +186,6 @@
       "model": "GLE",
       "condition": "used",
       "price": 63900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Rogue ",
-      "vin": "JN8BT3DD5PW314818",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-nanaimo-mirror/used/8d3c35264be2.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 26499.0,
       "price_currency": "CAD"
     },
     {
